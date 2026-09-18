@@ -1,0 +1,66 @@
+[
+  {
+    "id": "url_1789571886693_2vch",
+    "shortCode": "lOWyoi",
+    "longUrl": "https://news.ycombinator.com",
+    "createdAt": "2026-09-16T15:18:06.693Z",
+    "expiresAt": "2026-09-17T15:18:06.693Z",
+    "clickCount": 1,
+    "lastClickedAt": "2026-09-16T15:18:11.354Z",
+    "clicksHistory": [
+      {
+        "timestamp": "2026-09-16T15:18:11.354Z",
+        "userAgent": "curl/7.88.1",
+        "referer": "Direct"
+      }
+    ]
+  },
+  {
+    "id": "seed-1",
+    "shortCode": "sprB01",
+    "longUrl": "https://spring.io/projects/spring-boot",
+    "title": "Spring Boot Official Documentation",
+    "createdAt": "2026-09-14T15:17:54.778Z",
+    "expiresAt": "2026-09-19T15:17:54.779Z",
+    "clickCount": 15,
+    "lastClickedAt": "2026-09-16T15:18:00.014Z",
+    "clicksHistory": [
+      {
+        "timestamp": "2026-09-16T15:18:00.014Z",
+        "userAgent": "curl/7.88.1",
+        "referer": "Direct"
+      },
+      {
+        "timestamp": "2026-09-16T13:17:54.779Z",
+        "referer": "Direct / Terminal"
+      }
+    ]
+  },
+  {
+    "id": "seed-2",
+    "shortCode": "ghRepo",
+    "longUrl": "https://github.com/spring-projects/spring-boot",
+    "title": "Spring Boot GitHub Repository",
+    "createdAt": "2026-09-15T15:17:54.779Z",
+    "expiresAt": null,
+    "clickCount": 29,
+    "lastClickedAt": "2026-09-16T14:47:54.779Z",
+    "clicksHistory": [
+      {
+        "timestamp": "2026-09-16T14:47:54.779Z",
+        "referer": "VS Code Thunder Client"
+      }
+    ]
+  },
+  {
+    "id": "seed-3",
+    "shortCode": "exp99X",
+    "longUrl": "https://example.com/expired-resource-article",
+    "title": "Demo Expired Link (Click to test 410 GONE error)",
+    "createdAt": "2026-09-14T13:17:54.779Z",
+    "expiresAt": "2026-09-16T13:17:54.779Z",
+    "clickCount": 5,
+    "lastClickedAt": "2026-09-16T05:17:54.779Z",
+    "clicksHistory": []
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "URL Shortener",
+  "description": "A TinyURL & Bitly clone with 6-character short codes, HTTP 302 redirection, live click analytics, link expiration, and a turnkey Spring Boot Java backend project for VS Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
